@@ -1,4 +1,4 @@
-<h2><img src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="80">I'm Yanina, but you can call me Beth</h2>
+<h2><img src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="80">Hi, I'm Yanina, but you can call me Beth</h2>
 <img align='right' src="https://media0.giphy.com/media/jz7nZTW5oEBZAAZ4ge/giphy.gif?cid=ecf05e47helg6mlo1lylp72cfjw2o0vtuxcicugesb37itet&rid=giphy.gif&ct=s" width="260">
 <p><em>Software Developer at <a href="https://datapar.com.py/">Datapar S.A.</a></br> 
 </em></p>
