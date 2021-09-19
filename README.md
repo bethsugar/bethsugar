@@ -3,7 +3,7 @@
 <p><em>Software Developer at <a href="https://datapar.com.py/">Datapar S.A.</a></br> 
 </em></p>
 
-[![Linkedin: Yanina.](https://img.shields.io/badge/-Yanina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yanina-383442202/)](https://www.linkedin.com/in/yanina-383442202/)
+[![Linkedin: Yanina.](https://img.shields.io/badge/-Yanina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yanina-sanabria-383442202/)](https://www.linkedin.com/in/yanina-sanabria-383442202/)
 [![GitHub Yanina](https://img.shields.io/github/followers/bethsugar?label=follow&style=social)](https://github.com/bethsugar)
 
 
