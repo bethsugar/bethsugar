@@ -13,5 +13,7 @@
 - I am a science enthusiast.
 - 🌱 I’m currently learning **Rust - Go - Blockchain**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img src="https://media3.giphy.com/media/IepNVGIdW9StzeD12O/200w.webp?cid=ecf05e47vmvm2ywg28utzym9r67vzkfr7rx4ottpa7xdfram&rid=200w.webp&ct=s" width="25"> <em>The human brain has 100 billion neurons, each neuron connected to 10 thousand other neurons. Sitting on your shoulders is the most complicated object in the known universe. <b>- Michio Kaku</b></em>
