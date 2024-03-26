@@ -1,7 +1,6 @@
 <h2><img src="https://media.giphy.com/media/5tfqzU3LJ1UKKfhLLU/giphy.gif" width="80">Hi, I'm Yanina, but you can call me Beth</h2>
 <img align='right' src="https://media0.giphy.com/media/jz7nZTW5oEBZAAZ4ge/giphy.gif?cid=ecf05e47helg6mlo1lylp72cfjw2o0vtuxcicugesb37itet&rid=giphy.gif&ct=s" width="260">
-<p><em>Software Developer at <a href="https://datapar.com.py/">Datapar S.A.</a></br> 
-</em></p>
+<p><em>Software Developer</em></p>
 
 [![Linkedin: Yanina.](https://img.shields.io/badge/-Yanina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yanina-sanabria-383442202/)](https://www.linkedin.com/in/yanina-sanabria-383442202/)
 [![GitHub Yanina](https://img.shields.io/github/followers/bethsugar?label=follow&style=social)](https://github.com/bethsugar)
@@ -9,9 +8,8 @@
 
 ## A little more about me...  
 - I love learning new things every day.
-- I'm a big fan of coffee with cinnamon rolls.
-- I am a science enthusiast.
-- 🌱 I’m currently learning **Rust - Go - Blockchain**
+- I'm a big fan of coffee.
+- Science enthusiast.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
